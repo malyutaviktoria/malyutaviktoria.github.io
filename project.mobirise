@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "TopLife",
+    "name": "FM",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -36,7 +36,7 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 27,
     "versionPublish": "4.10.3",
-    "favicon": "@PROJECT_PATH@/assets/images/tl2-128x103.png",
+    "favicon": "@PROJECT_PATH@/assets/images/i.webp",
     "noImageResize": "",
     "cookiesAlert": "",
     "gdpr": "",
@@ -47,7 +47,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Бизнес онлайн TL",
+        "title": "Бизнес онлайн FM",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
