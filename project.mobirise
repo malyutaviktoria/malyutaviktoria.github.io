@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "FM-clone",
+    "name": "АртЛайф мой",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -36,7 +36,7 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 28,
     "versionPublish": "4.11.4",
-    "favicon": "@PROJECT_PATH@/assets/images/i.webp",
+    "favicon": "@PROJECT_PATH@/assets/images/brand-clym-128x128.png",
     "noImageResize": "",
     "cookiesAlert": "",
     "gdpr": "",
@@ -52,7 +52,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Бизнес онлайн FM",
+        "title": "Бизнес онлайн ArtLife",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
